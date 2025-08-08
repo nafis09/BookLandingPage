@@ -138,6 +138,7 @@ main p{
     font-family: "Poppins";
     font-weight: bold;
     color: var(--primary-color);
+    cursor: pointer;
 }
 
 .btn button{
@@ -152,6 +153,7 @@ main p{
     font-weight: bold;
     color: white;
     font-family: "Poppins";
+    cursor: pointer;
 }
 
 @media screen and (max-width: 1400px) {
